@@ -1,0 +1,10 @@
+es\albarregas\DAOFactory\DAOFactory.class
+es\albarregas\DAOFactory\MySQLDAOFactory.class
+es\albarregas\controllers\SelectDBController.class
+es\albarregas\DAO\IAvistamientoDAO.class
+es\albarregas\beans\Avistamiento.class
+es\albarregas\controllers\FrontController.class
+es\albarregas\DAO\ConnectionFactory.class
+es\albarregas\DAO\AvistamientoDAODerby.class
+es\albarregas\DAOFactory\DerbyDAOFactory.class
+es\albarregas\DAO\AvistamientoDAO.class
